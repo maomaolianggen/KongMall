@@ -22,4 +22,5 @@ $smarty=new Smarty();
 $smarty->template_dir=ROOT_PATH."application/views";
 //定义网站的编译目录
 $smarty->compile_dir=ROOT_PATH."application/run";
+$干你奶奶个腿
 ?>
